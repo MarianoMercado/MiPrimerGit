@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<aplicaciones>
+	<SEPAS>
+		<connectionstring>
+			Data Source=LAPTOP-1O07LU75\SQLEXPRESS;Initial Catalog=SEPAS;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
+		</connectionstring>
+	</SEPAS>
+</aplicaciones>
