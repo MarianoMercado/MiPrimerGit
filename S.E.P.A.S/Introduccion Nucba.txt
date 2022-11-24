@@ -1,0 +1,49 @@
+CAMADA #2917
+
+2 meses- Diseño web->proyecto integrador
+
+4 meses- java
+
+ meses - react 
+
+4 ultimos meses backend 
+
+Discord canal ofical de comunicacion 
+
+SECRETARIA@NUCBA.COM.AR Administrativo
+
+----------------------------------ATAJOS
+SHIFT + ALT + F ODENA EL CODIGO
+
+
+------Internet
+tim Bernes- Lee Padre de www wor wile web Sitema 
+Propuso un nuevo sistema para compartir documentos
+
+
+------Diseño Web
+HtML HyperText Markup Language (Lenguaje de marcado de hipertexto). No es un lenguaje , es una herramienta que se utiliza para construir una pagina web
+
+ Etiqueta head https://developer.mozilla.org/es/docs/Web/HTML/Element/head - 
+  
+etiqueta body https://developer.mozilla.org/es/docs/Web/HTML/Element/body -
+
+documentación de headings https://developer.mozilla.org/es/docs/Web/HTML/Element/Heading_Elements 
+
+lorem https://www.lipsum.com/
+
+
+Frontend 
+     cliente: interaccion con el usuario
+
+Backend
+ Lo que no se ve: Logica de negocios y almacenamientos de datos , etc
+
+https://developer.mozilla.org/es/
+https://es.stackoverflow.com/
+
+----------------------------------- CLASE 2 22/11/2022
+
+----Formularios
+
+ Label
